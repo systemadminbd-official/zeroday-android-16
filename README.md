@@ -1,6 +1,6 @@
 # CVE-2026-0006: Heap Buffer Overflow in libopenapv (Android APV Codec)
 
-## Patch Analysis & Reproduction by [Mobile Hacking Lab](https://www.mobilehackinglab.com)
+ 
 
 **CVSS 9.8 Critical** | Actively exploited in the wild | Patched March 2026
 
